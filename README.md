@@ -12,3 +12,7 @@ Cette one page a été réalisée dans le but de vous présenter qui je suis, af
 ## Avancement
 
 - Mise en place de la structure
+
+## Visualisation du projet
+
+Afin de voir cette page vous pouvez vous rendre ici : 
