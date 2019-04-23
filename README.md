@@ -16,4 +16,4 @@ Cette one page a été réalisée dans le but de vous présenter qui je suis, af
 
 ## Visualisation du projet
 
-Afin de voir cette page vous pouvez vous rendre ici : https://jeremycreola.github.io/fiche-presentation/
+Afin de voir cette page vous pouvez vous rendre ici : https://jeremycreola.github.io/CV/
