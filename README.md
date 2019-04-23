@@ -1,4 +1,4 @@
-## Présentation
+﻿## Présentation
 
 Cette one page a été réalisée dans le but de vous présenter qui je suis, afin d'être plus complet qu'un CV.
 
@@ -8,6 +8,7 @@ Cette one page a été réalisée dans le but de vous présenter qui je suis, af
 - CSS
 - SCSS
 - Trello
+- Figma 
 
 ## Avancement
 
