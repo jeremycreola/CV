@@ -16,4 +16,8 @@ Cette one page a été réalisée dans le but de vous présenter qui je suis, af
 
 ## Visualisation du projet
 
-Afin de voir cette page vous pouvez vous rendre [ici](https://jeremycreola.github.io/CV/){:target="_blank" }
+Afin de voir cette page vous pouvez vous rendre ici : https://jeremycreola.github.io/CV/
+
+## CV en PDF
+
+Au cas où vous le souhaiteriez, vous pouvez retrouver mon CV en format pdf en cliquant [sur ce lien.](https://jeremycreola.000webhostapp.com/CV/CVJeremyCreola.pdf) 
