@@ -6,14 +6,14 @@
 body {
   font: 16px Helvetica, Sans-Serif;
   line-height: 24px;
-  background: url(../images/noise.jpg);
+  background: url(../images/fond.jpg);
 }
 
-.clear {
+.informations {
   clear: both;
 }
 
-#page-wrap {
+#page-content {
   width: 800px;
   margin: 40px auto 60px;
 }
@@ -96,7 +96,7 @@ dd {
   float: right;
 }
 
-dd.clear {
+dd.informations {
   float: none;
   margin: 0;
   height: 15px;
